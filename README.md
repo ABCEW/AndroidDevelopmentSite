@@ -68,6 +68,7 @@ Material Design Icons  https://materialdesignicons.com/
 ## 工具
 
 AndroidDevTools http://www.androiddevtools.cn/ 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
+
 Inloop Open Source  http://inloop.github.io/
 ## 原型
 
@@ -81,16 +82,21 @@ invision  http://www.invisionapp.com
 
 Appetize.io - Web 在线跑起你的 App  https://appetize.io/demo
 jsonschema2pojo - 一个强大的 Json 文本转换为 Java 类的工具  http://www.jsonschema2pojo.org/
+
 Regulex - 正则表达式工具  https://jex.im/regulex/
 .gitignore.io - 在线生成 .gitignore 文件  https://www.gitignore.io/
+
 mydevice.io - 检测、查看设备屏幕屏幕信息  http://mydevice.io/
 AppBrain | Stats - Android 工具、库使用排行  http://www.appbrain.com/stats/libraries/dev
 
 ## 资源工具
 
 AndroidAssetStudio  http://romannurik.github.io/AndroidAssetStudio/
+
 Medialoot - Design is easy with Medialoot.  http://medialoot.com/
+
 material palette - Material Design 配色工具  http://www.materialpalette.com
+
 Android Holo Colors Generator  http://android-holo-colors.com/
 ## 博客
 
