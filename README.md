@@ -100,8 +100,8 @@ material palette - Material Design 配色工具  http://www.materialpalette.com
 Android Holo Colors Generator  http://android-holo-colors.com/
 ## 博客
 
-Android Developers Blog  http://jakewharton.com/
+Android Developers Blog  http://android-developers.blogspot.com/
 
-Google Devlopers Blog
+Google Devlopers Blog  http://googledevelopers.blogspot.com/
 
 jakewharton    http://jakewharton.com/
